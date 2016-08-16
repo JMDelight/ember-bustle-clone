@@ -17,3 +17,11 @@
 .story-tile:hover {
   cursor: pointer;
 }
+
+.story-tile {
+  height: 400px;
+}
+
+.story-tile img {
+  max-height: 300px;
+}
