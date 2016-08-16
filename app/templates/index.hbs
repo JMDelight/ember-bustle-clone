@@ -1,6 +1,7 @@
 <h1>Hooray!</h1>
+{{carousel-tile stories=model.carousel}}
 <div class="row">
-{{#each model as |story|}}
+{{#each model.stories as |story|}}
   {{story-tile story=story}}
 {{/each}}
 </div>

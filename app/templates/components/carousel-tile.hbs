@@ -1,0 +1,17 @@
+{{#carousel-container transition-interval=400}}
+  {{#carousel-body}}
+    {{#each stories as |story|}}
+      {{#carousel-item}}
+        <img class="carousel-image" src={{story.image}}/>
+        <h5>{{story.title}}</h5>
+      {{/carousel-item}}
+    {{/each}}
+  {{/carousel-body}}
+
+  {{#carousel-arrow direction="left" tagName="button"}}
+    Slide Left
+  {{/carousel-arrow}}
+  {{#carousel-arrow direction="right" tagName="button"}}
+    Slide Right
+  {{/carousel-arrow}}
+{{/carousel-container}}
