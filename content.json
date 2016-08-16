@@ -1,0 +1,37 @@
+{ "stories": [{
+    "title": "Veruca Salt",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris nec sagittis orci, at tempus ante. Etiam in elementum risus. Morbi luctus lacus nec leo blandit ullamcorper. Nunc mollis id risus pulvinar lacinia. Duis vel nisi nec sapien euismod mattis a vitae ipsum. Sed mattis viverra suscipit. Duis mollis mattis lacus ut malesuada. Praesent nisi massa, blandit et tellus quis, rutrum suscipit leo. Fusce blandit mi nibh. Suspendisse at blandit nisl, ac pellentesque dolor.",
+    "author": "Veruca Salt",
+    "time": 1471322206,
+    "category": "Health and Beauty",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "title": "Stop Something",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas eleifend sed magna vitae faucibus. Morbi elementum porta justo vitae consequat. Morbi varius purus nisi, nec accumsan libero scelerisque sollicitudin. Nulla et nibh libero. Fusce dapibus et dolor non finibus. Proin tellus sem, iaculis at massa eleifend, malesuada malesuada erat. Aenean a feugiat ante. Praesent faucibus, ex et facilisis auctor, mauris elit tempor ipsum, at elementum enim neque et nunc. In ullamcorper pretium consectetur. Sed pellentesque nunc in leo dapibus rhoncus.",
+    "author": "Bob Someone",
+    "time": 1471332206,
+    "category": "Health and Beauty",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "title": "How to dance",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce ut lacus vel erat accumsan eleifend vitae a libero. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Integer eu purus tellus. Suspendisse sit amet egestas arcu. Aenean pretium risus ligula, sit amet pretium dui vestibulum eu. Fusce varius efficitur laoreet. Etiam a maximus eros, in lacinia ante. Maecenas nec massa efficitur, viverra neque id, molestie ex.",
+    "author": "Jimmmy No Legs",
+    "time": 1471341206,
+    "category": "Health and Beauty",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "title": "10 easy steps to Ruin your Life(the 4th will shock you)",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean hendrerit tristique rhoncus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Duis at turpis velit. Morbi quis leo hendrerit, tincidunt lorem molestie, lacinia ipsum. Etiam nec hendrerit magna, eget sollicitudin massa. Nullam porta sit amet leo nec sollicitudin. Aliquam vel finibus diam. Duis venenatis rutrum porttitor. Nulla ultrices neque sit amet sem pretium, a luctus augue congue. Duis sed velit at justo tempor pulvinar vitae id dui.",
+    "author": "Bouncy Betty",
+    "time": 1471328206,
+    "category": "Health and Beauty",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }, {
+    "title": "How to Doge",
+    "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. In maximus ultrices nisi eget eleifend. Vestibulum maximus eget mauris vehicula aliquet. Donec commodo pulvinar ligula, in viverra libero gravida eget. Curabitur quis ultricies ex. Ut sit amet turpis erat. Quisque ut diam vulputate, mattis quam vitae, faucibus purus. Sed euismod gravida iaculis. Pellentesque vitae viverra metus.",
+    "author": "Doug the Pug",
+    "time": 1471292206,
+    "category": "Health and Beauty",
+    "image": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Crane_estate_(5).jpg"
+  }]
+}

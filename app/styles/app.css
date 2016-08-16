@@ -1,0 +1,19 @@
+.frontpage-img {
+  max-width: 100%;
+}
+
+.frontpage-date {
+  float: right;
+}
+
+.frontpage-date, .frontpage-author {
+  display: inline-block;
+}
+
+.frontpage-storyfooter {
+  width: 100%;
+}
+
+.story-tile:hover {
+  cursor: pointer;
+}

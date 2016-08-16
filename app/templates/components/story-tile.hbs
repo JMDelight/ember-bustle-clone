@@ -1,0 +1,10 @@
+{{#link-to 'story' story.id}}
+<div class="col-sm-6 col-md-4 story-tile">
+  <img src={{story.image}} alt={{story.title}} class="frontpage-img"/>
+  <h3>{{story.title}}</h3>
+  <div class="frontpage-storyfooter">
+    <p class="frontpage-author">{{story.author}}</p>
+    <p class="frontpage-date">{{story.time}}</p>
+  </div>
+</div>
+{{/link-to}}
