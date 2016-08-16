@@ -3,4 +3,5 @@
 {{#each model as |story|}}
   <h5>{{story.title}} by {{story.author}}  </h5>
   {{edit-story story=story update='update'}}
+  <button {{action 'delete' story}}>Delete</button>
 {{/each}}

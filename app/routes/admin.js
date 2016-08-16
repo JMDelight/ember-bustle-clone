@@ -15,5 +15,11 @@ export default Ember.Route.extend({
       story.save();
       this.transitionTo('admin');
     },
+    delete(story) {
+      if (confirm('Are you sure you want to delete this story?')) {
+        story.destroyRecord();
+        this.transitionTo('admin');
+      }
+    }
   }
 });
