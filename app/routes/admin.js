@@ -20,6 +20,12 @@ export default Ember.Route.extend({
         story.destroyRecord();
         this.transitionTo('admin');
       }
+    },
+    save3(params) {
+      var newStory = this.store.createRecord('story', params);
+      console.log(newStory);
+      newStory.save();
+      this.transitionTo('admin');
     }
   }
 });
